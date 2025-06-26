@@ -52,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

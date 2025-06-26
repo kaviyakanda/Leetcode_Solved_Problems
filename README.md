@@ -7,8 +7,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

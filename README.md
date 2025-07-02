@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0500-keyboard-row) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |

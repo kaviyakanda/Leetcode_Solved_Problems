@@ -133,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->

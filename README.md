@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0500-keyboard-row) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [3811-reverse-degree-of-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0495-teemo-attacking) |
+| [3811-reverse-degree-of-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |

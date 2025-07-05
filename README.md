@@ -141,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0260-single-number-iii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0260-single-number-iii) |
 | [0476-number-complement](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0476-number-complement) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->

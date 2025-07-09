@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0575-distribute-candies) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0202-happy-number) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Number Theory

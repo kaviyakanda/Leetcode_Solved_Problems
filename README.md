@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0344-reverse-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0164-maximum-gap) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bucket Sort
 |  |

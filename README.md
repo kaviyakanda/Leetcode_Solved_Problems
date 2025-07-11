@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0697-degree-of-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1603-running-sum-of-1d-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -197,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

@@ -20,22 +20,17 @@ class Solution {
     List<Integer>res2=new ArrayList<>();
     preorder(p,res1);
     preorder(q,res2);
-   /// if(res1.size()!=res2.size())return false;
-    //if(res1.containsAll(res2) && res2.containsAll(res1)) return true;
     if(res1.equals(res2)) return true;
     return false;
-
-
-        
     }
     private void preorder(TreeNode root, List<Integer> list) {
         if (root == null) {
-            list.add(null); // add null to preserve tree structure
+            list.add(null); 
             return;
         }
-        list.add(root.val); // add node value
-        preorder(root.left, list);  // left subtree
-        preorder(root.right, list); // right subtree
+        list.add(root.val); 
+        preorder(root.left, list);  
+        preorder(root.right, list);
     }
 
 }

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0575-distribute-candies) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0018-4sum) |
 | [0164-maximum-gap](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0164-maximum-gap) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Database
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0074-search-a-2d-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bucket Sort
 |  |
 | ------- |

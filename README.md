@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0697-degree-of-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0697-degree-of-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0697-degree-of-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0697-degree-of-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String

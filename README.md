@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 ## Monotonic Stack
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -166,8 +168,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

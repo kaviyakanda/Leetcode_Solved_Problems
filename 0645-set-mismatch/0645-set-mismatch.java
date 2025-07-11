@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int[] findErrorNums(int[] nums) {
         int[] arr=new int[2];
         Arrays.sort(nums);
@@ -21,7 +21,25 @@ class Solution {
 
         }arr[1]=val;
        
-        return arr;
-        
+        return arr;*/
+        class Solution {
+    public int[] findErrorNums(int[] nums) {
+        int[] numsArr = new int[nums.length + 1];
+        int missingNum = -1;
+        int duplicate = -1;
+
+        for (int i : nums) {
+            numsArr[i]++;
+        }
+
+        for (int i = 0; i < numsArr.length; i++) {
+            if (numsArr[i] == 2) {
+                duplicate = i;
+            } else if (numsArr[i] == 0) {
+                missingNum = i;
+            }
+        }
+
+        return new int[] { duplicate, missingNum };
     }
 }

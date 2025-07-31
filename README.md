@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0941-sort-array-by-parity) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1603-running-sum-of-1d-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |

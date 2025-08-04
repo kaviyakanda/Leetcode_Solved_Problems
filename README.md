@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -258,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0697-degree-of-an-array) |
+| [0747-min-cost-climbing-stairs](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0941-sort-array-by-parity) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Stack

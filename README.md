@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0260-single-number-iii) |
+| [0334-increasing-triplet-subsequence](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0463-island-perimeter) |
 | [0495-teemo-attacking](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0495-teemo-attacking) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0605-can-place-flowers) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |

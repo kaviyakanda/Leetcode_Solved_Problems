@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1894-merge-strings-alternately) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0500-keyboard-row) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1146-greatest-common-divisor-of-strings) |

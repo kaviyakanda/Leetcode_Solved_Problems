@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0164-maximum-gap](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0198-house-robber) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0463-island-perimeter) |
 ## Sorting
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0495-teemo-attacking](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0495-teemo-attacking) |
 | [3811-reverse-degree-of-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Binary Search

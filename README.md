@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0260-single-number-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0463-island-perimeter) |
 ## Sorting
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bucket Sort
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1217-relative-sort-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

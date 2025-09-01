@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0697-degree-of-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0890-lemonade-change](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1217-relative-sort-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0890-lemonade-change) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 ## Bit Manipulation
 |  |

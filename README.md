@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0041-first-missing-positive) |
+| [0146-lru-cache](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0500-keyboard-row) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -323,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

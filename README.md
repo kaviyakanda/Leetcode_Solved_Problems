@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1217-relative-sort-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1603-running-sum-of-1d-array) |

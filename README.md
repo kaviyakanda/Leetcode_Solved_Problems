@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0500-keyboard-row) |
 | [1078-remove-outermost-parentheses](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1078-remove-outermost-parentheses) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0263-ugly-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1013-fibonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1236-n-th-tribonacci-number) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0260-single-number-iii) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0645-set-mismatch) |
 ## Linked List

@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0263-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |

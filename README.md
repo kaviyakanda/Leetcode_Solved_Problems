@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0747-min-cost-climbing-stairs) |
+| [0804-rotated-digits](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0804-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Stack
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0263-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0804-rotated-digits](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0804-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1236-n-th-tribonacci-number) |

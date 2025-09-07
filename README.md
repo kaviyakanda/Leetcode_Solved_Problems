@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1078-remove-outermost-parentheses) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1894-merge-strings-alternately) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Depth-First Search
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0059-spiral-matrix-ii) |
 | [0495-teemo-attacking](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0495-teemo-attacking) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3811-reverse-degree-of-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Binary Search
 |  |

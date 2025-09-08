@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1894-merge-strings-alternately) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3811-reverse-degree-of-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Depth-First Search
 |  |

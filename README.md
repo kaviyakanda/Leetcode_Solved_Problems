@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [3830-find-closest-person](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Number Theory

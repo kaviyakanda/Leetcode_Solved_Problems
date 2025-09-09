@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1603-running-sum-of-1d-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0645-set-mismatch) |
+| [1662-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1662-minimum-numbers-of-function-calls-to-make-target-array) |
 ## Linked List
 |  |
 | ------- |

@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0941-sort-array-by-parity) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1137-height-checker](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Bucket Sort
 |  |

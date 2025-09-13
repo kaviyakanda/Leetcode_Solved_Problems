@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0463-island-perimeter) |
 | [0563-binary-tree-tilt](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1005-univalued-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1005-univalued-binary-tree) |
 ## Matrix
 |  |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0563-binary-tree-tilt](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1005-univalued-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0563-binary-tree-tilt](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1005-univalued-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2416-evaluate-boolean-binary-tree) |

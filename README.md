@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1005-univalued-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Prefix Sum
 |  |

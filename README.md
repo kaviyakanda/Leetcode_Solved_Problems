@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0482-license-key-formatting](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0920-uncommon-words-from-two-sentences) |

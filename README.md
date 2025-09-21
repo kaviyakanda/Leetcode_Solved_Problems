@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0500-keyboard-row) |

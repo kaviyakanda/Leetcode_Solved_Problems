@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0482-license-key-formatting](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0953-reverse-only-letters) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0263-ugly-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0504-base-7) |
 | [0804-rotated-digits](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/0804-rotated-digits) |
 | [1013-fibonacci-number](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/kaviyakanda/Leetcode_Solved_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
